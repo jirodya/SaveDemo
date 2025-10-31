@@ -1,0 +1,14 @@
+# Build and user files
+bin/
+obj/
+.vscode/
+.idea/
+
+# VS specific
+*.user
+*.suo
+*.vs/
+
+# Temporary
+*.tmp
+*.log
